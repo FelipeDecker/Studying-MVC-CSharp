@@ -1,0 +1,5 @@
+C:\Users\felipe.decker\source\repos\VendaProdutos\VendaProdutos.Dominio\bin\Debug\VendaProdutos.Dominio.dll
+C:\Users\felipe.decker\source\repos\VendaProdutos\VendaProdutos.Dominio\bin\Debug\VendaProdutos.Dominio.pdb
+C:\Users\felipe.decker\source\repos\VendaProdutos\VendaProdutos.Dominio\obj\Debug\VendaProdutos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\felipe.decker\source\repos\VendaProdutos\VendaProdutos.Dominio\obj\Debug\VendaProdutos.Dominio.dll
+C:\Users\felipe.decker\source\repos\VendaProdutos\VendaProdutos.Dominio\obj\Debug\VendaProdutos.Dominio.pdb
